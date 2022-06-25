@@ -407,6 +407,7 @@ body {
 }
 
 .radio_control {
+   display: block;
    width: 1.5rem;
    height: 1.5rem;
    border-radius: 50%;
