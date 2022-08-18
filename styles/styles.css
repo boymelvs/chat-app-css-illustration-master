@@ -144,10 +144,11 @@ body {
    text-align: center;
    background: var(--white);
    border-radius: 3rem;
+   border: 0.1rem solid rgba(0, 0, 0, 0.5);
    padding: 1rem;
    max-width: 28rem;
    width: 100%;
-   box-shadow: 0 0 3rem rgba(0, 0, 0, 0.1);
+   box-shadow: 0.3rem 0.3rem 0.2rem rgba(0, 0, 0, 0.5);
 }
 
 @media (min-width: 600px) {
